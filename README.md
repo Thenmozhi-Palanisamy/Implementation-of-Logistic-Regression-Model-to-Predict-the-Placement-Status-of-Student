@@ -70,9 +70,13 @@ y_pred
 */
 
 ## Output:
-![s1](https://user-images.githubusercontent.com/95198708/232792254-d27cc6d1-93f7-469e-9806-2ed853b416b6.png)
-![s1](https://user-images.githubusercontent.com/95198708/232792292-4b8d4150-b28d-49af-b30e-dd19cb4e9d29.png)
-![s1](https://user-images.githubusercontent.com/95198708/232792350-17829a01-13dc-4562-9a6a-5dffa366800b.png)
+![image](https://user-images.githubusercontent.com/95198708/232792645-c94ea977-7f7f-42f1-8bc2-2ef1eb21b069.png)
+![image](https://user-images.githubusercontent.com/95198708/232792678-0f8793c5-41a6-4b44-b7ea-0d4548fa6158.png)
+![image](https://user-images.githubusercontent.com/95198708/232792707-52d4ecaf-4576-4336-aeab-33b9d27d09d7.png)
+![image](https://user-images.githubusercontent.com/95198708/232792751-21adfec8-6583-498f-9961-e0b4458638db.png)
+![image](https://user-images.githubusercontent.com/95198708/232792799-9da1760e-c6cf-467f-b9d0-20997a32ae33.png)
+![image](https://user-images.githubusercontent.com/95198708/232792844-58e72f49-24d1-46d9-9f42-43713101f033.png)
+
 
 
 
