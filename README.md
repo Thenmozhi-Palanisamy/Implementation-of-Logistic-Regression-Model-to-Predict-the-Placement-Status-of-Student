@@ -70,7 +70,7 @@ lr.fit(x_train,y_train)
 y_pred = lr.predict(x_test)
 y_pred
 */
-
+``` 
 ## Output:
 ![image](https://user-images.githubusercontent.com/95198708/232792645-c94ea977-7f7f-42f1-8bc2-2ef1eb21b069.png)
 ![image](https://user-images.githubusercontent.com/95198708/232793035-55900682-9446-405d-a216-3696c9df95d1.png)
