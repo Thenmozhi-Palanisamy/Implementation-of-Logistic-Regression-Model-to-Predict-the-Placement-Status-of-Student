@@ -8,17 +8,19 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the standard libraries such as pandas module to read the corresponding csv file.
+2. Upload the dataset values and check for any null or duplicated values using .isnull() and .duplicated() function respectively.
+3. Import LabelEncoder and encode the corresponding dataset values.
+4. Import LogisticRegression from sklearn and apply the model on the dataset using train and test values of x and y and Predict the values of array using the variable y_pred.
+5. Calculate the accuracy, confusion and the classification report by importing the required modules such as accuracy_score, confusion_matrix and the classification_report from sklearn.metrics module.
+6. Apply new unknown values and print all the acqirred values for accuracy, confusion and the classification report.
 
 ## Program:
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: 
-RegisterNumber:  
+Developed by: Thenmozhi p
+RegisterNumber: 212221230116 
 */
 ```
 import pandas as pd
@@ -71,6 +73,8 @@ y_pred
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/95198708/232792645-c94ea977-7f7f-42f1-8bc2-2ef1eb21b069.png)
+![image](https://user-images.githubusercontent.com/95198708/232793035-55900682-9446-405d-a216-3696c9df95d1.png)
+
 ![image](https://user-images.githubusercontent.com/95198708/232792678-0f8793c5-41a6-4b44-b7ea-0d4548fa6158.png)
 ![image](https://user-images.githubusercontent.com/95198708/232792707-52d4ecaf-4576-4336-aeab-33b9d27d09d7.png)
 ![image](https://user-images.githubusercontent.com/95198708/232792751-21adfec8-6583-498f-9961-e0b4458638db.png)
